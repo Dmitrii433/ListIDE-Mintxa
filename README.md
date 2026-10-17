@@ -32,7 +32,7 @@
 
 ## 📥 Как запустить
 
-1. Перейдите в раздел **[Releases](https://github.com/Dmitri433/ListIDE-Mintxa/releases)** (справа на этой странице).
+1. Перейдите в раздел **[Releases](https://github.com/Dmitrii433/ListIDE-Mintxa/releases)** (справа на этой странице).
 2. Скачайте архив `ListIDE.zip` из последнего релиза.
 3. Распакуйте архив в любую папку.
 4. Запустите `ListIDE.exe`.
